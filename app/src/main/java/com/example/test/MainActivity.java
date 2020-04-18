@@ -23,6 +23,9 @@ public class MainActivity extends AppCompatActivity {
                 .commit();
     }
 
+    /*Maam ke sath call*/
+
+
     private BottomNavigationView.OnNavigationItemReselectedListener navListener =
             new BottomNavigationView.OnNavigationItemReselectedListener() {
                 @Override
