@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
                 .commit();
     }
 
-    /*Maam ke sath call*/
+    /*Maam ke sath call, commit 5*/
 
 
     private BottomNavigationView.OnNavigationItemReselectedListener navListener =
